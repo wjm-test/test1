@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-2 {
+        fill: #1890ff;
+      }
+    </style>
+  </defs>
+  <g id="统计" transform="translate(-20 2.5)">
+    <g id="Group_53" data-name="Group 53" transform="translate(20 -2.5)">
+      <rect id="Rectangle_35_Copy_15" data-name="Rectangle 35 Copy 15" class="cls-1" width="24" height="24"/>
+      <g id="areachart" transform="translate(1.5 1.5)">
+        <path id="Shape" class="cls-2" d="M20.156,21.023H.843A.844.844,0,0,1,0,20.18V.843a.844.844,0,0,1,1.687,0V19.336H20.156a.844.844,0,0,1,0,1.688Zm-1.562-3.074H3.455a.468.468,0,0,1-.42-.68L5.77,12.375a.5.5,0,0,1,.435-.254.493.493,0,0,1,.208.046l2.606,1.212,2.777-4a.5.5,0,0,1,.633-.159l2.566,1.308,3.757-5.888a.4.4,0,0,1,.337-.188.4.4,0,0,1,.41.406V17.044A.906.906,0,0,1,18.595,17.949Z"/>
+      </g>
+    </g>
+  </g>
+</svg>
